@@ -1,0 +1,10 @@
+
+#EXTM3U
+#EXTINF:-1
+https://cdn77-vid.xvideos-cdn.com/FCfliWu6HNQWgcL3I9-wDA==,1638121902/videos/hls/4b/5b/0f/4b5b0fdeeef0c02b8321a9deaac6fd72/hls-360p-bad6c.m3u8
+#EXTINF:-2
+https://hls-hw.xvideos-cdn.com/videos/hls/9e/9a/a0/9e9aa0d51b9d102092713a40f7f22891/hls-360p-cf2ca.m3u8?e=1638122171&l=0&h=4fb474f391283d38f51c2990e34f905e
+#EXTINF:-3
+https://hls-hw.xvideos-cdn.com/videos/hls/9e/9a/a0/9e9aa0d51b9d102092713a40f7f22891/hls-360p-cf2ca.m3u8?e=1638122171&l=0&h=4fb474f391283d38f51c2990e34f905e
+
+
